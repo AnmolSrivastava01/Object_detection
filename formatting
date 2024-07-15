@@ -1,0 +1,19 @@
+import pandas as pd
+
+# Load the CSV file
+df = pd.read_csv('annotations_yolo_01.csv')
+
+# Function to extract the category from the image name
+def extract_category(image_name):
+    return image_name.split('_')[1]
+
+# Extract the category and store it in a new column
+df['category'] = df['name'].apply(extract_category)
+
+# Insert the 'category' column as the 6th column (index 5)
+df.insert(5, 'category', df.pop('category'))
+
+# Save the updated DataFrame to a new CSV file
+df.to_csv('updated_annotations_yolo_01.csv', index=False)
+
+print("Category column added successfully!")

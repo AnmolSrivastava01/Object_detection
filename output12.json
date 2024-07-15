@@ -1,0 +1,592 @@
+[
+  {
+    "name": "POUF",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "CUSHIONS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SHIRT",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "THROWS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "STOCKING",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "BATH MATS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "RUNNER",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "TABLE LAMP",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "DRESS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "PANT",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SHORTS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "BASKETS & LAUNDRY BASKETS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "PHOTO FRAME",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "BOXES",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "DECORATIVE PIECES",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "CHRISTMAS CONE",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "WALL HANGINGS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "JUMPSUITS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "ROMPERS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "T SHIRT",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "FLOOR CUSHIONS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SOAP DISPENSER",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "TRAY",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "BLOUSE",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SKIRT",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "TUMBLERS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "PLACE MAT",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "NAPKIN",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "TABLE CLOTH",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "CARPETS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "CHARGER PLATES",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "COTTON BOX",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "TOP",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "CUTLERY",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "STOOLS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "CAKE STAND",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "COASTERS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "NAPKIN RING",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SERVING TRAYS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "DRINKING GLASSES",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "GARLAND",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "PLANTERS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "VASES",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "WATERING CAN",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SWEATSHIRT",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "JACKET",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SWEATERS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "RUGS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "CHRISTMAS ORNAMENT",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "TREE COLLAR",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "TREE SKIRT",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "TREE TOPPER",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "BEACHWEAR",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "LANTERNS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SWEATER",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "TABLE CLOCK",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "WINTER WEAR",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "MIRRORS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "DINING TABLES",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "CONSOLE TABLES",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "MEDIA UNIT",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "BUFFETS & SIDEBOARDS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "CHAIRS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "TABLE BENCHES",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "COFFEE TABLE",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "BAR TABLES",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "HOODIES",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "VEST",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "BEDDING SETS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SETS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "TOWELS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "LOUNGE WEAR",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "NAPKIN HOLDER",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SALT & PEPPER SHAKER",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "WOODEN BOWL",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "HAND BAGS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SLING BAGS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "LAZY SUSANS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "POTHOLDERS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "BENCHES",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "CANDLE HOLDERS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "LEARNING",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "TWISTED SILK",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "MAGNIFYING GLASS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "WALL CLOCKS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "HOME BAR FURNITURE",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SIDE TABLE",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "ACETATE",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "PANTS & SKIRTS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "POLYESTER",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "OFFICE SHIRTS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "GUNS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "INDOOR FUN",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "OMBRE CHIFFON",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "OFFICE PANTS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "ORGANZA",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "VISCOSE BLEND",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SILK",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SHORTS PANTS SKIRTS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "LINEN",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "VISCOSE",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "COTTON",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SATIN",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "COTTON BLEND",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "TULLE",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "POLYURETHANE",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "ACETATE SATIN",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "ACETATE BLEND",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "ELASTIC SILK LIKE SATIN",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "T LIGHT HOLDER",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "CLUTCHES",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "SOFT TOYS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "CRIBS, BEDS & MATTRESSES",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "COVERALLS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "T-SHIRTS AND CAPS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "HI VIZ JACKETS",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "GLOVES",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "CARGO PANTS",
+    "type": "any",
+    "attributes": []
+  }
+]

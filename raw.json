@@ -1,0 +1,829 @@
+
+[
+    {
+      "name": "POUF",
+      "id": 2923607,
+      "color": "#860d9c",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "CUSHIONS",
+      "id": 2923608,
+      "color": "#61b0ac",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SHIRT",
+      "id": 2923609,
+      "color": "#504080",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "THROWS",
+      "id": 2923610,
+      "color": "#c49a55",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "STOCKING",
+      "id": 2923611,
+      "color": "#d5edef",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "BATH MATS",
+      "id": 2923612,
+      "color": "#f6fa9c",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "RUNNER",
+      "id": 2923613,
+      "color": "#48f95f",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "TABLE LAMP",
+      "id": 2923614,
+      "color": "#a0db6c",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "DRESS",
+      "id": 2923615,
+      "color": "#a02080",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "PANT",
+      "id": 2923616,
+      "color": "#54af92",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SHORTS",
+      "id": 2923617,
+      "color": "#50c080",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "BASKETS & LAUNDRY BASKETS",
+      "id": 2923618,
+      "color": "#cadb58",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "PHOTO FRAME",
+      "id": 2923619,
+      "color": "#0031fe",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "BOXES",
+      "id": 2923620,
+      "color": "#f47349",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "DECORATIVE PIECES",
+      "id": 2923621,
+      "color": "#a6ea96",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "CHRISTMAS CONE",
+      "id": 2923622,
+      "color": "#a34d2a",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "WALL HANGINGS",
+      "id": 2923623,
+      "color": "#d587e4",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "JUMPSUITS",
+      "id": 2923624,
+      "color": "#4df9ca",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "ROMPERS",
+      "id": 2923625,
+      "color": "#ea73da",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "T SHIRT",
+      "id": 2923626,
+      "color": "#6f2f0b",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "FLOOR CUSHIONS",
+      "id": 2923627,
+      "color": "#6944bc",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SOAP DISPENSER",
+      "id": 2923628,
+      "color": "#9040c0",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "TRAY",
+      "id": 2923629,
+      "color": "#086c89",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "BLOUSE",
+      "id": 2923630,
+      "color": "#32bbc2",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SKIRT",
+      "id": 2923631,
+      "color": "#1080c0",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "TUMBLERS",
+      "id": 2923632,
+      "color": "#ca9404",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "PLACE MAT",
+      "id": 2923633,
+      "color": "#214e28",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "NAPKIN",
+      "id": 2923634,
+      "color": "#00e020",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "TABLE CLOTH",
+      "id": 2923635,
+      "color": "#b5f031",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "CARPETS",
+      "id": 2923636,
+      "color": "#26ac9e",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "CHARGER PLATES",
+      "id": 2923637,
+      "color": "#de8b4f",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "COTTON BOX",
+      "id": 2923638,
+      "color": "#c91e8a",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "TOP",
+      "id": 2923639,
+      "color": "#c00ba3",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "CUTLERY",
+      "id": 2923640,
+      "color": "#87a182",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "STOOLS",
+      "id": 2923641,
+      "color": "#d78dab",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "CAKE STAND",
+      "id": 2923642,
+      "color": "#e04080",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "COASTERS",
+      "id": 2923643,
+      "color": "#11c3c7",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "NAPKIN RING",
+      "id": 2923644,
+      "color": "#ad2d16",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SERVING TRAYS",
+      "id": 2923645,
+      "color": "#bf01d3",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "DRINKING GLASSES",
+      "id": 2923646,
+      "color": "#8916f8",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "GARLAND",
+      "id": 2923647,
+      "color": "#1358fa",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "PLANTERS",
+      "id": 2923648,
+      "color": "#1499cd",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "VASES",
+      "id": 2923649,
+      "color": "#826ee9",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "WATERING CAN",
+      "id": 2923650,
+      "color": "#3124c5",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SWEATSHIRT",
+      "id": 2923651,
+      "color": "#275ac4",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "JACKET",
+      "id": 2923652,
+      "color": "#a08020",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SWEATERS",
+      "id": 2923653,
+      "color": "#783b1d",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "RUGS",
+      "id": 2923654,
+      "color": "#8747c3",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "CHRISTMAS ORNAMENT",
+      "id": 2923655,
+      "color": "#bd10e9",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "TREE COLLAR",
+      "id": 2923656,
+      "color": "#d8854f",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "TREE SKIRT",
+      "id": 2923657,
+      "color": "#7bea14",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "TREE TOPPER",
+      "id": 2923658,
+      "color": "#08516c",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "BEACHWEAR",
+      "id": 2923659,
+      "color": "#17ee3d",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "LANTERNS",
+      "id": 2923660,
+      "color": "#a9ea33",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SWEATER",
+      "id": 2923661,
+      "color": "#5d1b74",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "TABLE CLOCK",
+      "id": 2923662,
+      "color": "#87c457",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "WINTER WEAR",
+      "id": 2923663,
+      "color": "#548684",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "MIRRORS",
+      "id": 2923664,
+      "color": "#f99cbd",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "DINING TABLES",
+      "id": 2923665,
+      "color": "#d20ae2",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "CONSOLE TABLES",
+      "id": 2923666,
+      "color": "#b1ae4e",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "MEDIA UNIT",
+      "id": 2923667,
+      "color": "#2e2804",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "BUFFETS & SIDEBOARDS",
+      "id": 2923668,
+      "color": "#984f27",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "CHAIRS",
+      "id": 2923669,
+      "color": "#c32700",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "TABLE BENCHES",
+      "id": 2923670,
+      "color": "#b7daec",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "COFFEE TABLE",
+      "id": 2923671,
+      "color": "#40a000",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "BAR TABLES",
+      "id": 2923672,
+      "color": "#488c00",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "HOODIES",
+      "id": 2923673,
+      "color": "#63bcbc",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "VEST",
+      "id": 2923674,
+      "color": "#231ecc",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "BEDDING SETS",
+      "id": 2923675,
+      "color": "#a9a826",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SETS",
+      "id": 2923676,
+      "color": "#392e60",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "TOWELS",
+      "id": 2923677,
+      "color": "#ad9563",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "LOUNGE WEAR",
+      "id": 2923678,
+      "color": "#665b19",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "NAPKIN HOLDER",
+      "id": 2923679,
+      "color": "#b18d53",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SALT & PEPPER SHAKER",
+      "id": 2923680,
+      "color": "#19f07f",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "WOODEN BOWL",
+      "id": 2923681,
+      "color": "#07d132",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "HAND BAGS",
+      "id": 2923682,
+      "color": "#fad6fd",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SLING BAGS",
+      "id": 2923683,
+      "color": "#2d3a7b",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "LAZY SUSANS",
+      "id": 2923684,
+      "color": "#b69433",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "POTHOLDERS",
+      "id": 2923685,
+      "color": "#a6623d",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "BENCHES",
+      "id": 2923686,
+      "color": "#4358f8",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "CANDLE HOLDERS",
+      "id": 2923687,
+      "color": "#5c3bbb",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "LEARNING",
+      "id": 2923688,
+      "color": "#3b5ba9",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "TWISTED SILK",
+      "id": 2923689,
+      "color": "#ff8ef1",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "MAGNIFYING GLASS",
+      "id": 2923690,
+      "color": "#53ed5a",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "WALL CLOCKS",
+      "id": 2923691,
+      "color": "#376cc1",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "HOME BAR FURNITURE",
+      "id": 2923692,
+      "color": "#483a3c",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SIDE TABLE",
+      "id": 2923693,
+      "color": "#050842",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "ACETATE",
+      "id": 2923694,
+      "color": "#7e5673",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "PANTS & SKIRTS",
+      "id": 2923695,
+      "color": "#c834b6",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "POLYESTER",
+      "id": 2923696,
+      "color": "#09a619",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "OFFICE SHIRTS",
+      "id": 2923697,
+      "color": "#d06f8f",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "GUNS",
+      "id": 2923698,
+      "color": "#601301",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "INDOOR FUN",
+      "id": 2923699,
+      "color": "#7a48b4",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "OMBRE CHIFFON",
+      "id": 2923700,
+      "color": "#9e7880",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "OFFICE PANTS",
+      "id": 2923701,
+      "color": "#f8f0e6",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "ORGANZA",
+      "id": 2923702,
+      "color": "#19b668",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "VISCOSE BLEND",
+      "id": 2923703,
+      "color": "#4fd2ba",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SILK",
+      "id": 2923704,
+      "color": "#71ea77",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SHORTS PANTS SKIRTS",
+      "id": 2923705,
+      "color": "#e8c486",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "LINEN",
+      "id": 2923706,
+      "color": "#aee846",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "VISCOSE",
+      "id": 2923707,
+      "color": "#4ebf28",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "COTTON",
+      "id": 2923708,
+      "color": "#4f9597",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SATIN",
+      "id": 2923709,
+      "color": "#8621f4",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "COTTON BLEND",
+      "id": 2923710,
+      "color": "#36e3b9",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "TULLE",
+      "id": 2923711,
+      "color": "#e4f22c",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "POLYURETHANE",
+      "id": 2923712,
+      "color": "#74fe50",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "ACETATE SATIN",
+      "id": 2923713,
+      "color": "#c2c3ae",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "ACETATE BLEND",
+      "id": 2923714,
+      "color": "#2fb100",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "ELASTIC SILK LIKE SATIN",
+      "id": 2923715,
+      "color": "#6819f9",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "T LIGHT HOLDER",
+      "id": 2923716,
+      "color": "#84f3fb",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "CLUTCHES",
+      "id": 2923717,
+      "color": "#039401",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "SOFT TOYS",
+      "id": 2923718,
+      "color": "#6db507",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "CRIBS, BEDS & MATTRESSES",
+      "id": 2923719,
+      "color": "#c88656",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "COVERALLS",
+      "id": 2923720,
+      "color": "#d1bd45",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "T-SHIRTS AND CAPS",
+      "id": 2923721,
+      "color": "#196321",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "HI VIZ JACKETS",
+      "id": 2923722,
+      "color": "#964d8e",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "GLOVES",
+      "id": 2923723,
+      "color": "#72102f",
+      "type": "any",
+      "attributes": []
+    },
+    {
+      "name": "CARGO PANTS",
+      "id": 2923724,
+      "color": "#e88ae6",
+      "type": "any",
+      "attributes": []
+    }
+  ]
